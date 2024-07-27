@@ -1,6 +1,6 @@
-<p align="center"># Reid Case</p>
-<p align="center">Glendale, CA 91201 (open to remote and hybrid)</p><br />
-<p align="center">+1 (504) 236-5069 | rtc.datasci@gmail.com | [LinkedIn](https://linkedin.com/in/reidtcase) | [GitHub](github.com/reidtc82)</p>
+# Reid Case
+Glendale, CA 91201 (open to remote and hybrid)<br />
++1 (504) 236-5069 | rtc.datasci@gmail.com | [LinkedIn](https://linkedin.com/in/reidtcase) | [GitHub](github.com/reidtc82)
 <br />
 Data-driven Analytics Manager with over 10 years of experience specializing in machine learning solutions and leading technical teams in the retail banking domain. Proficient in Python, SQL, and AWS with a proven track record of leveraging data to drive strategic decision-making. Actively seeking a challenging role to utilize my analytical skills and leadership experience.
 <br /><br />
