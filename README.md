@@ -1,4 +1,4 @@
-#Reid Case#
+# Reid Case
 
 Glendale, CA 91201 (open to remote and hybrid)
 
@@ -6,7 +6,7 @@ Glendale, CA 91201 (open to remote and hybrid)
 
 Data-driven Analytics Manager with over 10 years of experience specializing in machine learning solutions and leading technical teams in the retail banking domain. Proficient in Python, SQL, and AWS with a proven track record of leveraging data to drive strategic decision-making. Actively seeking a challenging role to utilize my analytical skills and leadership experience.
 
-##SKILLS##
+## SKILLS
 
 Programming Languages: Python, SQL, JavaScript
 Databases: Microsoft SQL Server, AWS Athena, Postgres
@@ -16,9 +16,9 @@ Other Technical Skills: Power BI, Git, VS Code, Anaconda, Jupyter
 Soft Skills: Agile Project Management, Business Analysis
 
 
-##EXPERIENCE##
+## EXPERIENCE
 
-###Business Insights Manager###
+### Business Insights Manager
 SkyOne Federal Credit Union
 Hawthorne, CA
 August 2021 – Present 
@@ -32,7 +32,7 @@ August 2021 – Present
 * Developed and deployed logistic regression models using Python for marketing campaigns to reduce contact fatigue which increased response rates from <1% to 10%.
 
 
-###Core Systems Programmer Analyst###
+### Core Systems Programmer Analyst
 SkyOne Federal Credit Union
 Hawthorne, CA
 April 2018 – August 2021
@@ -42,7 +42,7 @@ April 2018 – August 2021
 * Developed data visualization dashboards using QuickTap Survey's REST API and JavaScript, presenting key financial metrics that guided strategic decisions, contributing to a growth in assets to $1 billion and an increase to 60k customers.
 
 
-###IT Support Programmer###
+### IT Support Programmer
 RiverLand Federal Credit Union
 New Orleans, LA
 March 2012 – July 2017
@@ -54,16 +54,16 @@ March 2012 – July 2017
 * Engineered member ranking system using Jack Henry & Associates PowerOn to manage remote check deposit limits, resulting in a reduction in financial risk.
 
 
-##EDUCATION##
+## EDUCATION
 
-###Master of Science in Computer Science###
+### Master of Science in Computer Science
 Data Science and Software Engineering Concentration
 DePaul University
 Chicago, IL
 November 2020
 
 
-###Bachelor of Science in Applied Computing###
+### Bachelor of Science in Applied Computing
 Web Application Development Concentration
 Tulane University
 New Orleans, LA 
