@@ -6,6 +6,8 @@ Glendale, CA 91201 (open to remote and hybrid)
 
 Data-driven Analytics Manager with over 10 years of experience specializing in machine learning solutions and leading technical teams in the retail banking domain. Proficient in Python, SQL, and AWS with a proven track record of leveraging data to drive strategic decision-making. Actively seeking a challenging role to utilize my analytical skills and leadership experience.
 
+
+
 ## SKILLS
 
 * **Programming Languages:** Python, SQL, JavaScript
@@ -14,6 +16,7 @@ Data-driven Analytics Manager with over 10 years of experience specializing in m
 * **Cloud & DevOps:** AWS Glue, SageMaker, S3
 * **Other Technical Skills:** Power BI, Git, VS Code, Anaconda, Jupyter
 * **Soft Skills:** Agile Project Management, Business Analysis
+
 
 
 ## EXPERIENCE
@@ -35,6 +38,7 @@ August 2021 – Present
 * Developed and deployed logistic regression models using Python for marketing campaigns to reduce contact fatigue which increased response rates from <1% to 10%.
 
 
+
 ### Core Systems Programmer Analyst
 SkyOne Federal Credit Union
 
@@ -46,6 +50,7 @@ April 2018 – August 2021
 * Implemented and configured a data warehouse solution improving historic data availability and reporting accuracy, enabling quicker financial statement production and paving way for future data science initiatives.
 * Designed metadata models adhering to CCPA regulations, enhancing data privacy and security for 60,000 customers.
 * Developed data visualization dashboards using QuickTap Survey's REST API and JavaScript, presenting key financial metrics that guided strategic decisions, contributing to a growth in assets to $1 billion and an increase to 60k customers.
+
 
 
 ### IT Support Programmer
@@ -60,6 +65,7 @@ March 2012 – July 2017
 * Implemented an upgrade to RiverLand’s data infrastructure, enhancing analytics capabilities and overcoming data inconsistency issues, contributing to $43 million in asset growth over 5 years.
 * Designed and implemented data pipelines using Jack Henry & Associates PowerOn for innovative overdraft limit management system, driving monthly fee revenue of $50,000.
 * Engineered member ranking system using Jack Henry & Associates PowerOn to manage remote check deposit limits, resulting in a reduction in financial risk.
+
 
 
 ## EDUCATION
