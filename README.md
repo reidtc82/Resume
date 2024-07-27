@@ -8,12 +8,12 @@ Data-driven Analytics Manager with over 10 years of experience specializing in m
 
 ## SKILLS
 
-Programming Languages: Python, SQL, JavaScript
-Databases: Microsoft SQL Server, AWS Athena, Postgres
-Data Science Tools & Frameworks: scikit-learn, matplotlib, Plotly, Flask, React
-Cloud & DevOps: AWS Glue, SageMaker, S3
-Other Technical Skills: Power BI, Git, VS Code, Anaconda, Jupyter
-Soft Skills: Agile Project Management, Business Analysis
+* **Programming Languages:** Python, SQL, JavaScript
+* **Databases:** Microsoft SQL Server, AWS Athena, Postgres
+* **Data Science Tools & Frameworks:** scikit-learn, matplotlib, Plotly, Flask, React
+* **Cloud & DevOps:** AWS Glue, SageMaker, S3
+* **Other Technical Skills:** Power BI, Git, VS Code, Anaconda, Jupyter
+* **Soft Skills:** Agile Project Management, Business Analysis
 
 
 ## EXPERIENCE
