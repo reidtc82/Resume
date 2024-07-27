@@ -22,12 +22,9 @@ Data-driven Analytics Manager with over 10 years of experience specializing in m
 ## EXPERIENCE
 
 ### Business Insights Manager
-SkyOne Federal Credit Union
-
-Hawthorne, CA
-
-August 2021 – Present
-
+SkyOne Federal Credit Union/
+Hawthorne, CA/
+August 2021 – Present/
 (SQL, Python, scikit-learn, SQLAlchemy, matplotlib, Jupyter Notebooks, Microsoft Visual Studio Code, Power BI, AWS S3, Athena, Glue, and SageMaker)
 * Developed machine learning solutions using AWS SageMaker to tackle rising default rates in post-COVID economic climate, leading to 12% decrease in bad debt write-offs.
 * Led 2 internship cohorts in enhancing analytics capabilities using Python, SQL, and Power BI within an Agile Scrum framework, resulting in 50% decrease in time-to-delivery.
