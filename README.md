@@ -1,9 +1,9 @@
-# Reid Case
-Glendale, CA 91201 (open to remote and hybrid)<br />
-+1 (504) 236-5069 | rtc.datasci@gmail.com | [LinkedIn](https://linkedin.com/in/reidtcase) | [GitHub](github.com/reidtc82)
+<p align="center"># Reid Case</p>
+<p align="center">Glendale, CA 91201 (open to remote and hybrid)</p><br />
+<p align="center">+1 (504) 236-5069 | rtc.datasci@gmail.com | [LinkedIn](https://linkedin.com/in/reidtcase) | [GitHub](github.com/reidtc82)</p>
 <br />
 Data-driven Analytics Manager with over 10 years of experience specializing in machine learning solutions and leading technical teams in the retail banking domain. Proficient in Python, SQL, and AWS with a proven track record of leveraging data to drive strategic decision-making. Actively seeking a challenging role to utilize my analytical skills and leadership experience.
-<br /><br /><br />
+<br /><br />
 ## SKILLS
 * **Programming Languages:** Python, SQL, JavaScript
 * **Databases:** Microsoft SQL Server, AWS Athena, Postgres
@@ -11,7 +11,7 @@ Data-driven Analytics Manager with over 10 years of experience specializing in m
 * **Cloud & DevOps:** AWS Glue, SageMaker, S3
 * **Other Technical Skills:** Power BI, Git, VS Code, Anaconda, Jupyter
 * **Soft Skills:** Agile Project Management, Business Analysis
-<br /><br /><br />
+<br /><br />
 ## EXPERIENCE
 ### Business Insights Manager
 SkyOne Federal Credit Union<br />
@@ -43,7 +43,7 @@ March 2012 – July 2017<br />
 * Implemented an upgrade to RiverLand’s data infrastructure, enhancing analytics capabilities and overcoming data inconsistency issues, contributing to $43 million in asset growth over 5 years.
 * Designed and implemented data pipelines using Jack Henry & Associates PowerOn for innovative overdraft limit management system, driving monthly fee revenue of $50,000.
 * Engineered member ranking system using Jack Henry & Associates PowerOn to manage remote check deposit limits, resulting in a reduction in financial risk.
-<br /><br /><br />
+<br /><br />
 ## EDUCATION
 ### Master of Science in Computer Science
 Data Science and Software Engineering Concentration<br />
