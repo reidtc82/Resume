@@ -1,10 +1,10 @@
-Reid Case
+**Reid Case**
 Glendale, CA 91201 (open to remote and hybrid)
 +1 (504) 236-5069 | rtc.datasci@gmail.com | linkedin.com/in/reidtcase | github.com/reidtc82
 
 Data-driven Analytics Manager with over 10 years of experience specializing in machine learning solutions and leading technical teams in the retail banking domain. Proficient in Python, SQL, and AWS with a proven track record of leveraging data to drive strategic decision-making. Actively seeking a challenging role to utilize my analytical skills and leadership experience.
 
-SKILLS
+**SKILLS**
 
 Programming Languages: Python, SQL, JavaScript
 Databases: Microsoft SQL Server, AWS Athena, Postgres
@@ -14,7 +14,7 @@ Other Technical Skills: Power BI, Git, VS Code, Anaconda, Jupyter
 Soft Skills: Agile Project Management, Business Analysis
 
 
-EXPERIENCE
+**EXPERIENCE**
 
 Business Insights Manager
 SkyOne Federal Credit Union
@@ -52,7 +52,7 @@ Designed and implemented data pipelines using Jack Henry & Associates PowerOn fo
 Engineered member ranking system using Jack Henry & Associates PowerOn to manage remote check deposit limits, resulting in a reduction in financial risk.
 
 
-EDUCATION
+**EDUCATION**
 
 Master of Science in Computer Science
 Data Science and Software Engineering Concentration
@@ -69,18 +69,5 @@ Tulane University
 New Orleans, LA 
 December 2010
 Cum Laude
-
-PROJECTS
-Cycling Athlete Training Plan Creator
-(React.js, Node.js, Pocketbase, Heroku, GitHub, Deepsource.io)
-Repo: https://github.com/reidtc82/training-app
-URL: https://training-app-7b0629306967.herokuapp.com/
-(Repo and app access available on request)
-React.js app used to create and manage training plans for athletes competing in bicycle racing events.
-
-Distributed Parallel Processing System
-(Python)
-Repo: https://github.com/reidtc82/junkbox 
-Distributed parallel processing utilizing socket server architecture in Python. Central broker manages and delegates functions and data across a network of worker nodes and collects final output.
 
 
